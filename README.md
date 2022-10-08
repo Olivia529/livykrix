@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Olivia
-- 👀 I’m interested in data analytics projects
+- 👀 I’m interested in edtech and data analytics projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
