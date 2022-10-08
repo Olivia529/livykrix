@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @livykrix
+- 👋 Hi, I’m @Olivia
 - 👀 I’m interested in data analytics projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
